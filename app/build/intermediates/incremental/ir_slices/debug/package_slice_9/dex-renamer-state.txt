@@ -1,0 +1,4 @@
+#Mon Nov 26 12:39:42 SGT 2018
+base.0=C\:\\Users\\taruc\\Desktop\\HelloSharedPrefs\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\9
+path.0=classes.dex
+renamed.0=classes.dex
